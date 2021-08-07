@@ -1,10 +1,9 @@
-# World_Weather_Analysis
-
+# World Weather Challenge
 ## `-Indice-`	
 	
 - [Overview of the Project](#)	
 - [Resources](#resources)	
-- [Result](#)	
+- [Results](#)	
 
 ## `Overview of Project`	
 Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences. 
@@ -13,12 +12,11 @@ adding the weather description to the weather data you’ve already retrieved in
 ## `Resources`	
 The analysis was created using next resources:	
   - Data Source:  [Resources](./Resources/)	
-  - Software: Python 3.8.8, Anaconda 4.10.3., Jupyter-notebook : 6.3.0.	
-## `Result`	
+  - Software: Python 3.8.8, Jupyter-notebook : 6.3.0.	
+## `Results`	
 
-Deliverable 1: Retrieve Weather Data
-Deliverable 2: Create a Customer Travel Destinations Map
-Deliverable 3: Create a Travel Itinerary Map
-
-
-Full results can be found in the [City Schools Analysis](./PyCitySchools_Challenge.ipynb) file.	
+Full results can be found in:
+ - [1: Weather Data](./_______Challenge.ipynb) file;
+ - [2: Customer Travel Destinations Map](./______Challenge.ipynb) file;
+ - [3: Travel Itinerary Map](./______Challenge.ipynb) file.
+ 	
