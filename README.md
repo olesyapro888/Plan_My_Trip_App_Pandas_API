@@ -15,11 +15,11 @@ The challenge tasks are:
 ## `Resources`	
 The analysis was created using next resources:	
   - Data Source:  [Resources](./Resources/)	
-  - Software: Python 3.8.8, Jupyter-notebook : 6.3.0, Google platform.
+  - Software: Python 3.8.8, Jupyter-notebook : 6.3.0, OpenWeather Platform, Google Maps Platform.
 ## `Results`	
 
 Full results of the analysis can be found in the following files:
- - [1: Weather Data](./Weather_Database.ipynb) file;
- - [2: Customer Travel Destinations Map](./Vacation_Search.ipynb) file;
- - [3: Travel Itinerary Map](./Vacation_Itinerary.ipynb) file.
+ - [1: Weather Data](./Weather_Database) folder;
+ - [2: Customer Travel Destinations Map](./Vacation_Search) folder;
+ - [3: Travel Itinerary Map](./Vacation_Itinerary) folder.
  	
