@@ -44,6 +44,7 @@ Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 149,Japura,ID,76.68,light rain,-0.3167,102.35,Rumah mbah Jamah
 154,Shingu,JP,84.9,few clouds,33.7333,135.9833,Shingu UI Hotel
 156,Erenhot,CN,77.13,light rain,43.6475,111.9767,Erenhot Rurouni Youth Hostel
+157,Meadow Lake,US,96.73,scattered clouds,34.8014,-106.5436,TumbleWeed RV Park
 161,Puerto Carreno,CO,77.67,broken clouds,6.189,-67.4859,Casa Hotel Victoria
 162,Fomboni,KM,76.01,clear sky,-12.28,43.7425,Auberge les abou
 164,Aquiraz,BR,80.19,scattered clouds,-3.9014,-38.3911,Pousada Rua Camurupim
@@ -115,6 +116,7 @@ Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 348,Harper,LR,76.23,broken clouds,4.375,-7.7169,Screensaver
 350,Kurskaya,RU,75.65,overcast clouds,44.05,44.45,Gostinitsa Fortuna
 352,Miyako,JP,80.64,overcast clouds,39.6367,141.9525,Hotel Route Inn Miyako
+353,Arlit,NE,98.49,broken clouds,18.7369,7.3853,Case de Passage De la Prefecture
 360,Westport,US,79.86,overcast clouds,41.1415,-73.3579,The Westport Inn
 367,Hasaki,JP,79.2,heavy intensity rain,35.7333,140.8333,Hotel Sunrise Choshi
 369,Touros,BR,75.34,broken clouds,-5.1989,-35.4608,INN NEW HORIZON
@@ -131,6 +133,7 @@ Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 391,Phonhong,LA,78.62,overcast clouds,18.5007,102.4166,Manyvong Guest House
 393,Riyadh,SA,92.61,scattered clouds,24.6877,46.7219,"InterContinental Riyadh, an IHG Hotel"
 397,Victoria,HK,84.96,overcast clouds,22.2855,114.1577,Mini Hotel Central
+400,Kifri,IQ,95.16,broken clouds,34.6959,44.9661,میزان کفری
 401,Saint-Georges,GD,80.29,few clouds,12.0564,-61.7485,Radisson Grenada Beach Resort
 404,Sao Filipe,CV,78.37,broken clouds,14.8961,-24.4956,Hotel Xaguate
 406,Bathsheba,BB,81.43,clear sky,13.2167,-59.5167,Atlantis Hotel
@@ -187,6 +190,7 @@ Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 519,Ranot,TH,80.94,broken clouds,7.7777,100.3213,Pakbanglake resort ปากบางเลค รีสอร์ท
 528,San Carlos,VE,76.26,broken clouds,9.6612,-68.5827,Hotel Paternopoli
 529,Krikellos,GR,77.05,clear sky,38.95,21.1833,Gabari Studios
+531,Altus,US,98.11,clear sky,34.6381,-99.334,"Holiday Inn Express & Suites Altus, an IHG Hotel"
 537,Elat,IL,86.56,clear sky,29.5581,34.9482,Club Hotel Eilat
 544,North Bend,US,75.92,fog,43.4065,-124.2243,Red Lion Hotel Coos Bay
 546,Itarema,BR,80.42,overcast clouds,-2.9248,-39.9167,"Sea Lounge! Bar, Club & Restaurant"
