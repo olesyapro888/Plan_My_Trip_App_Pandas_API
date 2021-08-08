@@ -22,4 +22,3 @@ Full results of the analysis can be found in the following files:
  - [1: Weather Data](./Weather_Database) folder;
  - [2: Customer Travel Destinations Map](./Vacation_Search) folder;
  - [3: Travel Itinerary Map](./Vacation_Itinerary) folder.
- 	
