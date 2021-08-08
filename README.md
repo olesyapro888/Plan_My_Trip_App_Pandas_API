@@ -24,10 +24,11 @@ Full results of the analysis can be found in the following files:
  - [2: Customer Travel Destinations Map](./Vacation_Search) folder with the result map:
  ![image](https://user-images.githubusercontent.com/68247343/128647750-b936b9af-94a3-4a92-8b29-b7ebd0855e45.png)
 
- - [3: Travel Itinerary Map](./Vacation_Itinerary) folder with result maps:
- ![image](https://user-images.githubusercontent.com/68247343/128647776-06bfaab7-abd1-4133-b1b2-2831cd0899f9.png)
+ - [3: Travel Itinerary Map](./Vacation_Itinerary) folder with 2 result maps.
+   1. Travel map:
+![image](https://user-images.githubusercontent.com/68247343/128647776-06bfaab7-abd1-4133-b1b2-2831cd0899f9.png)
 
-and Travel_Markers map:
+   2. Travel markers map:
 ![image](https://user-images.githubusercontent.com/68247343/128647788-96d8be1d-bde4-482e-8cdf-838ec321dd76.png)
 
  	
