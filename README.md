@@ -1,4 +1,4 @@
-# World Weather Analysis. The project of the University of Toronto.
+# World Weather Analysis. The project 6 of the University of Toronto.
 ## `-Contents-`	
 	
 - [Overview of the Project](#Overview-of-Project)	
