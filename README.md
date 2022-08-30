@@ -1,4 +1,4 @@
-# World Weather Analysis. The project 6 of the University of Toronto.
+# Technical World Weather Analysis using API skills
 ## `-Contents-`	
 	
 - [Overview of the Project](#Overview-of-Project)	
@@ -10,8 +10,8 @@
 PlanMyTrip app was created to recommend ideal hotels based on clients' weather preferences. 
 The project tasks are:
  - Using API skills to retrieve the current weather description for each city. 
- - Making input statements to filter the data for their weather preferences, which be used to identify potential travel destinations and nearby hotels. 
- - From the list of potential travel destinations, the beta tester choose four cities to create a travel itinerary. After, creating a travel route between the four cities as well as a marker layer map by using the Google Maps Directions API.
+ - Identifying potential travel destinations and nearby hotel by making input statements to filter the data for their weather preferences. 
+ - Creating a travel itinerary from the list of potential travel destinations. After, creating a travel route between the four cities as well as a marker layer map by using the Google Maps Directions API.
 
 ## `Resources`	
 The analysis was created using software resources: Python 3.8.8, Jupyter-notebook : 6.3.0, OpenWeather Platform, Google Maps Platform.
