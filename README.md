@@ -1,4 +1,5 @@
-# Technical World Weather Analysis using API skills
+# Plan My Trip app to recommend ideal hotels based on clients' weather preferences using API skills.
+
 ## `-Contents-`	
 	
 - [Overview of the Project](#Overview-of-Project)	
@@ -10,6 +11,9 @@
 PlanMyTrip app was created to recommend ideal hotels based on clients' weather preferences. 
 The project tasks are:
  - Using API skills to retrieve the current weather description for each city. 
+    a) Collect data from JSON parsed data from the API request and analyze weather data across cities worldwide using NumPy, Pandas.
+    b) Exploratory Analysis with the correlation and Scatter plots of the weather data.  
+    c) Create a series of heatmaps using the Google Maps and Places API.
  - Identifying potential travel destinations and nearby hotel by making input statements to filter the data for their weather preferences. 
  - Creating a travel itinerary from the list of potential travel destinations. After, creating a travel route between the four cities as well as a marker layer map by using the Google Maps Directions API.
 
